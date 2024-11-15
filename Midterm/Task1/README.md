@@ -1,6 +1,6 @@
 # Task 1
 
-请补充个人信息后，在此完成报告！
+我没下pycharm,用的就是vscode
 
-@Author:  
-@Email:
+@Author:  neltha
+@Email:   2324284600@qq.com
